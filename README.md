@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SathvikaE
-- 👀 I’m interested in GUI AND MACHINE LEARNING
-- 🌱 I’m currently learning GUI building on Tkinter
-- 💞️ I’m looking to collaborate on a bioinformatics based project focused on anti ageing
+- 👀 I’m interested in AI AND MACHINE LEARNING
+- 🌱 I’m currently learning Reinforcement learning through gaming
+- 💞️ I’m looking to collaborate on a bioinformatics based projects that incorporate AI and ML
 - 📫 reach me out on sathvika.5121@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sing well
